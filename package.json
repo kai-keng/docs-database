@@ -1,0 +1,25 @@
+{
+  "name": "docs-database",
+  "version": "1.0.0",
+  "description": "数据库知识",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kai-keng/docs-database.git"
+  },
+  "keywords": [],
+  "author": "air-cc <c989692c@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kai-keng/docs-database/issues"
+  },
+  "homepage": "https://github.com/kai-keng/docs-database#readme"
+}

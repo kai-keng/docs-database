@@ -1,0 +1,22 @@
+title: 'database'
+description: '数据库知识'
+base: "/docs-database/"
+themeConfig:
+  # 导航栏
+  nav:
+    - text: "首页"
+      link: "/"
+    - text: "数据库基础"
+      link: "/basic/"
+    - text: "MySQL"
+      link: "/mysql/"
+    - text: "PostgreSQL"
+      link: "/postgresql/"
+    - text: "MongoDB"
+      link: "/mongodb/"
+    - text: "NewSQL"
+      link: "/newsql/"
+  
+  # 侧边栏
+  # sidebar:
+    
